@@ -15,7 +15,8 @@ body{
     color: #004085;
     position: absolute;
     top: 10%;
-    left: 26%;
+    left: 50%;
+    tranform:translate(-50%,-50);
     font-size: 45px;
 }
 .name1{
@@ -23,7 +24,8 @@ body{
     color: #c3d4e7;
     position: absolute;
     top: 11.5%;
-    left: 26.3%;
+    left: 50%;
+    tranform:translate(-50%,-50);
     font-size: 45px;
 }
 .line{
@@ -32,7 +34,8 @@ body{
     height: 5px;
     position: absolute;
     top: 22%;
-    left: 28%;
+    left: 50%;
+    tranform:translate(-50%,-50);
 }
 .line1{
     background-color: #93a4b6;
@@ -40,7 +43,8 @@ body{
     height: 5px;
     position: absolute;
     top: 21%;
-    left: 28%;
+    left: 50%;
+    tranform:translate(-50%,-50);
 }
 .line2{
     background-color: #000000;
@@ -48,7 +52,8 @@ body{
     height: 5px;
     position: absolute;
     top: 20%;
-    left: 28%;
+    left: 50%;
+    tranform:translate(-50%,-50);
 }
 ::selection{
     color: #fff;
